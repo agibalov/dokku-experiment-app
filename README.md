@@ -11,6 +11,6 @@
 
 ### App
 
-/ - the only meaningful endpoint
-/admin - Spring Boot Admin
+* `/` - the only meaningful endpoint
+* `/admin` - Spring Boot Admin
 
